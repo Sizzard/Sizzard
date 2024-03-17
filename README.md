@@ -1,2 +1,1 @@
 viviane='/usr/bin/valgrind --show-leak-kinds=all --leak-check=full --track-origins=yes --track-fds=yes --trace-children=yes'
-https://urldefense.com/v3/__https://licences.lone.studio/cp/01HS4J6BSX2Y5HNW7QD6T4GTTW-1493165?s=d381f5f045f30770ca246eefa991f19a18d1f4d2b20aaebf235b4af2ef99d2ec__;!!HseEOGaABhuC!XpIIYfLJ5Hah5olIavFmiYh007QgFMFnFK-yvhLslkjkTFNYetRxex74Jx2cscf1nu5_ZyDfB9v4qCBJb_ihpoC83NQ1G3RAV1pKrjHEJHUtYShwifRlBAY19_-z$
